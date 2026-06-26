@@ -15,6 +15,7 @@ const printA = (num)=>{
         num1 = num2;
 
         num2 = next;
+
     }
 };
 
